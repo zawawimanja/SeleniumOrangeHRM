@@ -1,0 +1,3 @@
+
+
+POM + hardcoded credentials
